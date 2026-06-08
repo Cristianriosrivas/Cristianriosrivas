@@ -1,5 +1,9 @@
 <p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Cristian%20Rios%20Rivas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue.js+%7C+Firebase+%7C+Python;Building+cool+projects+%F0%9F%9A%80" />
 </p>
 
 
