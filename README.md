@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Cristian+Rios+Rivas;Full+Stack+Developer;Vue.js+%7C+Firebase+%7C+Python;Building+cool+projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Cristian+Rios+Rivas;Full+Stack+Developer;Vue.js+%7C+MySQL+%7C+Python;Scrum+Master+%F0%9F%9A%80;Building+cool+projects" />
 </p>
 
-
-<h1 align="center">Hey there! I'm Cristian Rios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Cristian Rios -->
 
