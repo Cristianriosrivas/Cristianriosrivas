@@ -33,11 +33,7 @@
 
 💡 I enjoy exploring new technologies, solving problems, and creating digital experiences that combine functionality and great design.
 
-🌎 Languages:
 
-* Spanish (Native)
-* English (B1–B2)
-* French (A1 – Currently Learning)
 
 💬 Feel free to ask me about Agile Methodologies, Scrum, Vue.js, Tailwind CSS, Front-End Development, or Web Design.
 
