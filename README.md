@@ -80,8 +80,10 @@
   </a>
 </p>
 
+### <h2>🐍 Contribution Snake:</h2>
+
 <p align="center">
-  <img src="https://github.com/Cristianriosrivas/Cristianriosrivas/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
