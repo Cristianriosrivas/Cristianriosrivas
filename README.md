@@ -3,23 +3,44 @@
 </p>
 
 
-<h1 align="center">Hey there! I'm Pedro Medina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hey there! I'm Cristian Rios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
+<!-- ## 👋 &nbsp;Hey there! I'm Cristian Rios -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm a TSU in Computer Science, recently graduated from the Jesús Obrero University Institute (IUJO) 🎓. I love web programming, I have knowledge of both front-end and back-end development. I love learning and creating something new, creative and productive. I love coffee ☕ and cold 🥶.
+🎓 I'm a Software Development Technologist with a strong passion for technology, innovation, and digital product creation. I am currently pursuing a specialization in Data Science and Artificial Intelligence through Alura Latam and Oracle Next Education (ONE).
 
-- 🌱 I’m currently learning ...
-    -TypeScript
-    -Node.js
-    -Tailwind CSS
-- 👯 I’m looking forward to collaborate on open source projects.
-- 💡 I like to explore new technologies and learn new things.
-- 💬 Ask me anything, I'll be happy to help you if I can or we can talk.
-- 🕹In my free time I like to play video games and watch movies.
-- 📫 Reach out to me at: medinamacho27@gmail.com
+📜 Certified Scrum Master with knowledge of Agile Methodologies, focused on delivering high-quality solutions through collaborative and iterative development processes.
+
+💻 My main strengths are:
+
+* Agile Methodologies (Scrum)
+* Front-End Development with Vue.js
+* Tailwind CSS
+* UI/UX and Visual Design
+* Responsive Web Development
+* Team Collaboration and Product-Oriented Development
+
+🌱 I’m currently learning:
+
+* Data Science
+* Artificial Intelligence
+* Advanced JavaScript Ecosystem
+* Machine Learning Fundamentals
+
+💡 I enjoy exploring new technologies, solving problems, and creating digital experiences that combine functionality and great design.
+
+🌎 Languages:
+
+* Spanish (Native)
+* English (B1–B2)
+* French (A1 – Currently Learning)
+
+💬 Feel free to ask me about Agile Methodologies, Scrum, Vue.js, Tailwind CSS, Front-End Development, or Web Design.
+
+🎨 Besides programming, I enjoy designing interfaces, learning about emerging technologies, and continuously improving my skills as a developer.
+
 
 <h2 align="left" >My Skills Include</h2>
 
@@ -66,14 +87,10 @@ I'm a TSU in Computer Science, recently graduated from the Jesús Obrero Univers
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedro-medina-a746a4354/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:medinacamacho27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100009057373959"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-david-rios-rivas-998b383b7"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:cristiandavidriosrivas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/cristianrios.25/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://candidato.co.computrabajo.com/candidate/cv/edit/?idapp=3&f=FEE939887FF3D46C"><img src="https://img.shields.io/badge/-Computrabajo-FF6B00.svg?style=for-the-badge&logo=briefcase&logoColor=white"/></a>
 </p>
 
 -----
-
-Credit: [MedinaPedroDev](https://github.com/MedinaPedroDev)
-
-Last Edited on: 03/03/2025
